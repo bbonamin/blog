@@ -28,10 +28,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-analytics
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-37325361-1
-    anonymizeIp: false
+google_analytics: UA-37325361-1
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
